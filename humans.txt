@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Johan Hallberg -- Developer -- @snobojohan
+
+# THANKS
+
+    Fredrik Davidsson
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Bootstrap, jQuery, Fitvids
